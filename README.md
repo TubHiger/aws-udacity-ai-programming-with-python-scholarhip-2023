@@ -1,1 +1,3 @@
-# aws-udacity-ai-programming-with-python-scholarhip-2023
+<h2>About</h2>
+
+This repository for my study notes, exercises, quizzes during Udacity AWS AI Programming with Python Scholarship 2023 
